@@ -1,4 +1,8 @@
 ---
+genres:
+  - card-games
+  - puzzle
+  - casual
 post: https://engineering.wingify.com/posts/js13k-game-development/#sum-it-up
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
